@@ -1,0 +1,73 @@
+[{
+        "item_code": "110000",
+        "item_name": "app"
+    },
+    {
+        "item_code": "120000",
+        "item_name": "web"
+    },
+    {
+        "item_code": "110100",
+        "item_name": "text"
+    },
+    {
+        "item_code": "110200",
+        "item_name": "r_id"
+    },
+    {
+        "item_code": "110300",
+        "item_name": "des"
+    },
+    {
+        "item_code": "110400",
+        "item_name": "class"
+    },
+    {
+        "item_code": "110101",
+        "item_name": "="
+    },
+    {
+        "item_code": "110102",
+        "item_name": "~"
+    },
+    {
+        "item_code": "110103",
+        "item_name": "~~"
+    },
+    {
+        "item_code": "110104",
+        "item_name": ">"
+    },
+    {
+        "item_code": "110201",
+        "item_name": "="
+    },
+    {
+        "item_code": "110203",
+        "item_name": "~~"
+    },
+    {
+        "item_code": "110301",
+        "item_name": "="
+    },
+    {
+        "item_code": "110302",
+        "item_name": "~"
+    },
+    {
+        "item_code": "110303",
+        "item_name": "~~"
+    },
+    {
+        "item_code": "110304",
+        "item_name": ">"
+    },
+    {
+        "item_code": "110401",
+        "item_name": "="
+    },
+    {
+        "item_code": "110403",
+        "item_name": "~~"
+    }
+]

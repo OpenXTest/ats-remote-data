@@ -1,0 +1,18 @@
+{
+    "adb.zip": {
+        "download_url": "https://raw.fastgit.org/OpenXTest/ats-env-bin/master/adb/adb.zip",
+        "md5": "94941F320FF6A7B7297AABC90931CDCE"
+    },
+    "allure.zip": {
+        "download_url": "https://raw.fastgit.org/OpenXTest/ats-env-bin/master/allure/allure.zip",
+        "md5": "54121329943FBBF641F65A15BBA15E98"
+    },
+    "scrcpy.zip": {
+        "download_url": "https://raw.fastgit.org/OpenXTest/ats-env-bin/master/scrcpy/scrcpy.zip",
+        "md5": "64E88EF64FDA996EA995DF7F1B643B4D"
+    },
+    "ats-sample.zip": {
+        "download_url": "https://raw.fastgit.org/OpenXTest/ats-sample/master/ats-sample.zip",
+        "md5": "B970FD4AE3DB517033E75BBB08D0D282"
+    }
+}
