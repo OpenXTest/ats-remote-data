@@ -1,4 +1,17 @@
 {
+    "ats-sample.zip": {
+        "download_url": "https://raw.fastgit.org/OpenXTest/ats-sample/master/ats-sample.zip",
+        "md5": "B3A4C553299B2225F289598EA5D9B0BB"
+    },
+    "chrome": {
+        "download_url": "https://www.iplaysoft.com/tools/chrome"
+    },
+    "chromedriver": {
+        "download_url": "http://npm.taobao.org/mirrors/chromedriver"
+    },
+    "python": {
+        "download_url": "https://www.python.org/ftp/python/3.8.4/python-3.8.4-amd64.exe"
+    },
     "adb.zip": {
         "download_url": "https://raw.fastgit.org/OpenXTest/ats-env-bin/master/adb/adb.zip",
         "md5": "94941F320FF6A7B7297AABC90931CDCE"
@@ -10,9 +23,5 @@
     "scrcpy.zip": {
         "download_url": "https://raw.fastgit.org/OpenXTest/ats-env-bin/master/scrcpy/scrcpy.zip",
         "md5": "64E88EF64FDA996EA995DF7F1B643B4D"
-    },
-    "ats-sample.zip": {
-        "download_url": "https://raw.fastgit.org/OpenXTest/ats-sample/master/ats-sample.zip",
-        "md5": "B3A4C553299B2225F289598EA5D9B0BB"
     }
 }
