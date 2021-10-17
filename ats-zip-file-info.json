@@ -12,6 +12,10 @@
     "python": {
         "download_url": "https://www.python.org/ftp/python/3.8.4/python-3.8.4-amd64.exe"
     },
+    "java.zip": {
+        "download_url": "https://raw.fastgit.org/OpenXTest/ats-env-bin/master/java/java.zip",
+        "md5": "85CB1754273180CFC4584447F351A9B4"
+    },
     "adb.zip": {
         "download_url": "https://raw.fastgit.org/OpenXTest/ats-env-bin/master/adb/adb.zip",
         "md5": "94941F320FF6A7B7297AABC90931CDCE"
@@ -23,9 +27,5 @@
     "scrcpy.zip": {
         "download_url": "https://raw.fastgit.org/OpenXTest/ats-env-bin/master/scrcpy/scrcpy.zip",
         "md5": "64E88EF64FDA996EA995DF7F1B643B4D"
-    },
-    "java.zip": {
-        "download_url": "https://raw.fastgit.org/OpenXTest/ats-env-bin/master/java/java.zip",
-        "md5": "85CB1754273180CFC4584447F351A9B4"
     }
 }
