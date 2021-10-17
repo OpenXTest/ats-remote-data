@@ -24,7 +24,7 @@
         "download_url": "https://raw.fastgit.org/OpenXTest/ats-env-bin/master/scrcpy/scrcpy.zip",
         "md5": "64E88EF64FDA996EA995DF7F1B643B4D"
     },
-    "java": {
+    "java.zip": {
         "download_url": "https://raw.fastgit.org/OpenXTest/ats-env-bin/master/java/java.zip",
         "md5": "85CB1754273180CFC4584447F351A9B4"
     }
